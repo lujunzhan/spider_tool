@@ -1,3 +1,9 @@
+'''
+Descripttion: 线程2
+Author: LJZ
+Date: 2020-11-19 20:51:24
+LastEditTime: 2020-11-19 22:38:47
+'''
 import time
 from PyQt5.QtCore import QThread ,pyqtSignal
 

@@ -1,7 +1,6 @@
 
 '''
-Descripttion: 
-version: 
+Descripttion: 线程1
 Author: LJZ
 Date: 2020-04-05 21:02:00
 LastEditTime: 2020-11-13 19:25:31

@@ -1,9 +1,8 @@
 '''
-Descripttion: 
-version: 
+Descripttion: 爬虫类
 Author: LJZ
 Date: 2020-04-04 01:16:46
-LastEditTime: 2020-11-13 20:07:58
+LastEditTime: 2020-11-19 22:11:00
 '''
 import requests
 import json

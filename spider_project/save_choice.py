@@ -9,7 +9,7 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 
-""" 这个是QT5图形界面直接生成的代码 """
+""" 这个是QT5图形界面直接生成的代码 用于保存选项 """
 class Ui_export_form(object):
     def setupUi(self, export_form):
         export_form.setObjectName("export_form")
