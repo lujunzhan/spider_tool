@@ -2,15 +2,14 @@
  * @Descripttion: markdown描述
  * @Author: LJZ
  * @Date: 2020-11-19 20:51:24
- * @LastEditTime: 2020-11-19 23:01:48
+ * @LastEditTime: 2020-11-19 23:07:53
 -->
 ## Bilibili排行榜爬取小工具
-
-####python爬虫小工具，使用pyqt5做UI界面
+#### python爬虫小工具，使用pyqt5做UI界面
 
 `环境：Python3.7.6`
 
-####安装第三方库
+#### 安装第三方库
 
 
     $ pip install requests
@@ -20,7 +19,7 @@
     $ pip install PyQt5
 
 
-####目录结构
+#### 目录结构
 ~~~
 SPIDER_TOOL 
 ├─spider_project        应用目录
@@ -38,5 +37,5 @@ SPIDER_TOOL
 
 ~~~
 
-####程序界面
+#### 程序界面
 ![Alt](https://csgduanzhou-pic.oss-cn-shenzhen.aliyuncs.com/my_self/cover.png)
